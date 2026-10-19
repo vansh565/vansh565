@@ -88,12 +88,12 @@ An AI project focused on retrieval-augmented generation and working with informa
 ### 🏷️ Dataset Annotation Platform
 A tool for managing and annotating datasets for machine learning and computer vision workflows.
 
-🔗 [Explore my repositories](https://github.com/vansh565/Dataset-Annotator-)
+🔗 [Vertex](https://github.com/vansh565/Dataset-Annotator-)
 
 ### 🌱 AI-Powered Crop Disease Detection
 An intelligent agriculture project focused on crop disease identification and AI-assisted treatment recommendations.
 
-🔗 [Explore my repositories](https://github.com/vansh565/precise-agriculture2)
+🔗 [Agro](https://github.com/vansh565/precise-agriculture2)
 
 ---
 
