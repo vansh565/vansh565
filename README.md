@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I am Vansh Sharma</h1>
+<h1 align="center">Hi, I am Vansh Sharma</h1>
 <h3 align="center">AI/ML Engineer | Computer Vision | Generative AI | Deep Learning</h3>
 
 <p align="center">
