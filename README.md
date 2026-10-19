@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Vansh Sharma</h1>
+<h1 align="center">Hi 👋, I am Vansh Sharma</h1>
 <h3 align="center">AI/ML Engineer | Computer Vision | Generative AI | Deep Learning</h3>
 
 <p align="center">
@@ -10,12 +10,18 @@
   <a href="https://github.com/vansh565">
     <img src="https://img.shields.io/badge/GitHub-vansh565-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+   <a href="https://www.instagram.com/vansh565_sharma">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  
+<a href="https://x.com/sharmavansh969">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
+</a>
+
+  <a href="https://www.linkedin.com/in/vansh-sharma-b9b80b298/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="YOUR_ORCID_URL">
-    <img src="https://img.shields.io/badge/ORCID-Researcher-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/>
-  </a>
+
 </p>
 
 ---
@@ -82,21 +88,44 @@ An AI project focused on retrieval-augmented generation and working with informa
 ### 🏷️ Dataset Annotation Platform
 A tool for managing and annotating datasets for machine learning and computer vision workflows.
 
-🔗 [Explore my repositories](https://github.com/vansh565?tab=repositories)
+🔗 [Explore my repositories](https://github.com/vansh565/Dataset-Annotator-)
 
 ### 🌱 AI-Powered Crop Disease Detection
 An intelligent agriculture project focused on crop disease identification and AI-assisted treatment recommendations.
 
-🔗 [Explore my repositories](https://github.com/vansh565?tab=repositories)
+🔗 [Explore my repositories](https://github.com/vansh565/precise-agriculture2)
 
 ---
 
-## 🏆 Achievements
 
-- 🥉 Mentored a team that secured third place at GRAPH-E-THON 2.0.
-- 🏅 Participated in and won multiple hackathons.
-- 🎓 Awarded a 100% AICTE Tuition Fee Waiver Scholarship.
-- 🏐 National-level Netball player with competitive achievements.
+## 🏆 Achievements & Hackathons
+
+- 🥇 **Winner — GNA Hackathon 3.0** | GNA University
+  - Competed among 250+ teams at a national-level hackathon.
+  - Built an autonomous drone-robot system featuring voice commands, image analysis, speech output, and RAG using Python.
+
+- 🥇 **Winner — CODEX 2025** | PIET, Haryana
+  - Competed among 300+ teams.
+  - Engineered an AI-powered threat detection platform with weapon recognition, a web dashboard, and physical robot deployment.
+
+- 🥇 **Winner — Hackaccino 3.0** | Bennett University, Noida
+  - Developed an AI/ML-powered rescue base station to identify humans in debris for real-time field monitoring and rescue operations.
+
+- 🥈 **1st Runner-Up — Kriyeta 4.0** | Acropolis Institute, Indore
+  - Competed among 600+ teams.
+  - Developed a smart irrigation system with live monitoring and ML-based crop pest detection using drone imagery.
+
+- 🥉 **3rd Place — GRAPH-E-THON 3.0 (2025)** | Graphic Era University, Dehradun
+  - Secured third place in an AI-focused hackathon among 1,000+ teams.
+
+- 🥈 **2nd Place — IdeaTank Ideathon 2025** | PIET
+  - Presented an innovative AI and technology-based solution at an innovation and entrepreneurship event.
+
+### 🎓 Other Achievements
+
+- Awarded a **100% AICTE Tuition Fee Waiver Scholarship**.
+- **National-level Netball Player**, with multiple competitive achievements.
+
 
 ---
 
@@ -120,8 +149,8 @@ An intelligent agriculture project focused on crop disease identification and AI
 
 <p align="center">
   <a href="https://github.com/vansh565">GitHub</a> •
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
-  <a href="YOUR_ORCID_URL">ORCID</a>
+  <a href="https://www.linkedin.com/in/vansh-sharma-b9b80b298/">LinkedIn</a> •
+ 
 </p>
 
 <p align="center">
